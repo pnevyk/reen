@@ -1,0 +1,3 @@
+<IfModule mod_rewrite.c>
+		# Devise how to redirect file requests to public folder
+</IfModule>
