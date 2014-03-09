@@ -2,6 +2,10 @@
 
 _PHP framework designed to be just backend for javascript SPA frameworks. Now, it is in sketch phase. I am collecting ideas what it should to know. It is work in progress and it is at the beginning now (almost no code :D). And I am looking for contributors/co-maintainers for this project. Check my ideas below and if it interests you, <a href="#contributing">let's get together</a> to create something awesome!_
 
+## NOTE
+
+I have studied a lot and have changed many opinions. With this knowledge I hope the framework will be better than this. So I am going to write new draft with these changes included. If are you interested in, feel free to contact me - petr.nevyhosteny(at)gmail.com. And please note that I am trying to make something different from other frameworks.
+
 ## What?
 
 Reen will be another PHP framework. Why should we have another PHP framework if we have a plenty of them? Because Reen will have a different approach. It will be designed as backend for javascript SPA applications. So, no MVC architecture or something like this. We don't need neither View or Controller, because all will be done in our javascript SPA framework. We need only something like model and maybe some server related services. Do you understand?
